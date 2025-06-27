@@ -1,8 +1,9 @@
 {
         "users": {
-                "8766340834": "PRIVATE",
-                "8774514433": "PRIVATE",
+                "8766340834": "WHITELISTED",
+                "8774514433": "WHITELISTED",
                 "8774784113": "OWNER",
-                "8726736502": "PRIVATE"
+                "8726736502": "WHITELISTED",
+                "8774814034": "WHITELISTED"
         }
 }
